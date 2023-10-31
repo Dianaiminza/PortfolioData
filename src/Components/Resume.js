@@ -27,8 +27,6 @@ proactive team player with excellent problem-solving abilities and a strong atte
             <p>(254) 728131955</p>
             <h5>Email</h5>
             <p>dianaiminza.99@gmail.com</p>
-            <h5>Web</h5>
-            <p> https://dianaiminza.github.io/Portfolio/</p>
             <hr style={{borderTop: '3px solid #833fb2', width: '50%'}}/>
               </Cell>
               <Cell className="resume-right-col"col={8}>
@@ -58,6 +56,7 @@ proactive team player with excellent problem-solving abilities and a strong atte
     endYear={2021}
     jobName="Second Job"
     jobDescription="Web development mentor at MOI University and web track lead at MMUST"
+    
 >
     <ul>
         <li>Conducted training sessions on web development for students at MOI University.</li>
